@@ -1,0 +1,45 @@
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+nav {
+  background: black;
+  color: white;
+  padding: 10px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+header {
+  text-align: center;
+  padding: 50px;
+}
+
+.btn {
+  background: black;
+  color: white;
+  padding: 10px;
+}
+
+.products {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+footer {
+  margin-top: 40px;
+  padding: 20px;
+  background: #eee;
+  text-align: center;
+}
